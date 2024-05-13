@@ -1,4 +1,4 @@
-# Implementation-of-K-Means-Clustering-for-Customer-Segmentation
+# EX-08 Implementation-of-K-Means-Clustering-for-Customer-Segmentation
 
 ## AIM:
 To write a program to implement the K Means Clustering for Customer Segmentation.
@@ -57,22 +57,22 @@ plt.title("Customer Segments")
 ```
 ## Output:
 #### df.head():
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/f2909d05-c913-481a-a23d-558da6b79065" width="300">
+![image](https://github.com/BALA291/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120717501/32b0cb7b-5e7c-4f62-89cc-bc91adcba62a)
 
 #### df.info():
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/8fe1d138-d646-4d66-be76-b8e8c11eeb6c" width="300">
+![image](https://github.com/BALA291/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120717501/96015dee-9ae7-4e01-aaa9-17bc93f016d0)
 
 #### df.isnull().sum():
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/e164792e-7697-4ba6-8e92-da0816e7c552" width="200">
+![image](https://github.com/BALA291/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120717501/f852f8fd-5830-4233-af6d-37f1a4bddc8e)
 
 #### Elbow Method Graph:
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/92bc7baa-51e4-48c3-b5f9-fbbdc7efd87a" width="400">
+![image](https://github.com/BALA291/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120717501/3c0cbff6-3471-4443-9b51-91a59c5fce0e)
 
 #### K-Means Cluster:
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/be2281e8-31e1-4f7f-a6d4-553b99d65e9e" width="400">
+![image](https://github.com/BALA291/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120717501/ede840c3-09b1-45c6-936b-93b8cf08a8e9)
 
 #### Customer Segments Graph:
-<img src = "https://github.com/Adhithyaram29D/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393540/2aa40179-e2c5-49e9-aa9f-ff9018dd5cff" width="300">
+![image](https://github.com/BALA291/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/120717501/7f1d6358-c2c9-4c77-8bef-57c4b409a5f2)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
